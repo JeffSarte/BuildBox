@@ -1,0 +1,48 @@
+.techservice{
+    background-color: red;
+    height: 500px;
+    width: 100%;
+}
+
+.tech1 ,.tech2{
+    height: 330px;
+    width: 45em;
+    background-color: wheat;
+    margin-left: 111px;
+    
+}
+.tech2{
+    margin-left: 59em;
+    margin-top: -20.5em;
+}
+
+.image1{
+    height: 200px;
+    width:15em;
+    background-color: white;
+    margin-left: 40px;
+    
+}
+
+.profile , .profile2 {
+    margin-top: -12em;
+    margin-left: 23em;
+    
+    
+}
+h5{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.buttonStyle , .buttonStyle1{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.image2{
+    height: 200px;
+    width:15em;
+    background-color: white;
+    margin-left: 40px;
+    
+}
